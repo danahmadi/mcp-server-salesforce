@@ -22,6 +22,10 @@ An MCP (Model Context Protocol) server implementation that integrates Claude wit
 
 ## Installation
 
+Requires **Node.js 22.19.0 or newer**. Use a currently supported LTS release
+(Node.js 22 or 24); the Salesforce client dependency requires this runtime minimum.
+See the [Node.js release schedule](https://nodejs.org/en/about/previous-releases).
+
 ### Global Installation (npm)
 
 ```bash
